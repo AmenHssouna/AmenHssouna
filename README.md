@@ -21,4 +21,20 @@
 ## 🧰 Tech Stack
 
 - **Languages**: Python, Java, C++, C, C#, JavaScript, HTML, CSS
-- **Frameworks**
+- **Frameworks**: Angular, React, Node.js
+- **Databases**: MongoDB
+- **IoT Platforms**: Arduino, ESP32, MQTT, Blynk
+- **Tools**: Git, VS Code, Unity 3D, Fritzing
+
+---
+
+## ⚽ Hobbies
+
+- Playing and watching **Soccer**
+- Enjoying a good game of **Tennis**
+- Exploring new IoT ideas and building prototypes
+
+---
+
+> “Building a smarter world, one device at a time.”
+
